@@ -1,0 +1,7 @@
+D:\Уник\ООП\laba02\converter_project\bin\Debug\converter_project.exe
+D:\Уник\ООП\laba02\converter_project\bin\Debug\converter_project.pdb
+D:\Уник\ООП\laba02\converter_project\obj\Debug\converter_project.csproj.AssemblyReference.cache
+D:\Уник\ООП\laba02\converter_project\obj\Debug\converter_project.csproj.SuggestedBindingRedirects.cache
+D:\Уник\ООП\laba02\converter_project\obj\Debug\converter_project.csproj.CoreCompileInputs.cache
+D:\Уник\ООП\laba02\converter_project\obj\Debug\converter_project.exe
+D:\Уник\ООП\laba02\converter_project\obj\Debug\converter_project.pdb
